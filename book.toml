@@ -1,0 +1,6 @@
+[book]
+authors = ["Hazel Bachrach"]
+language = "en"
+multilingual = false
+src = "src"
+title = "A Gleam Book"
